@@ -1,0 +1,3 @@
+[submodule "projectroot"]
+	path = projectroot
+	url = git@github.com:yamadapc/projectroot
