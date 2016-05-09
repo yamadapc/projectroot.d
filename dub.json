@@ -1,11 +1,11 @@
 {
   "name": "projectroot",
   "authors": [
-    "yamadapc"
+    "Pedro Tacla Yamada"
   ],
-  "description": "A minimal D application.",
-  "copyright": "Copyright © 2016, yamadapc",
-  "license": "proprietary",
+  "description": "D bindings for projectroot",
+  "copyright": "Copyright © 2016, Pedro Tacla Yamada",
+  "license": "MIT",
   "sourceFiles": [
     "./projectroot/libprojectroot.o"
   ]
